@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newUIScro</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>&lt;#UIScrollView#&gt; = [[UIScrollView alloc] initWithFrame:CGRectMake(&lt;#X#&gt;, &lt;#Y#&gt;, &lt;#WIDTH#&gt;, &lt;#HEIGHT#&gt;)];
+&lt;#UIScrollView#&gt;.userInteractionEnabled = &lt;#BOOL#&gt;;
+&lt;#UIScrollView#&gt;.pagingEnabled = &lt;#BOOL#&gt;;
+&lt;#UIScrollView#&gt;.delegate = &lt;#delegate#&gt;;
+&lt;#UIScrollView#&gt;.backgroundColor = &lt;#UIColor#&gt;;
+&lt;#UIScrollView#&gt;.contentSize = CGSizeMake(&lt;#WIDTH#&gt;, &lt;#HEIGHT#&gt;);
+&lt;#UIScrollView#&gt;.showsHorizontalScrollIndicator = &lt;#BOOL#&gt;;
+&lt;#UIScrollView#&gt;.showsVerticalScrollIndicator = &lt;#BOOL#&gt;;
+&lt;#UIScrollView#&gt;.alwaysBounceHorizontal = &lt;#BOOL#&gt;;
+&lt;#UIScrollView#&gt;.bounces = &lt;#BOO#&gt;;
+[&lt;#supView#&gt; addSubview:&lt;#UIScrollView#&gt;];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D4904657-DDA5-49B8-AA98-C27E41239C36</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>newUIScro</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>创建UIScrollow</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
